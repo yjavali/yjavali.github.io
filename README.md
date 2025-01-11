@@ -1,5 +1,3 @@
-# Resume Repository
-
 Welcome to my resume repository. This repository serves as a formal and accessible reference to my professional resume, making it easily available to potential employers, collaborators, and professional contacts.
 
 ## Purpose of this Repository
